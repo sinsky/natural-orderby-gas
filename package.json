@@ -1,0 +1,17 @@
+{
+  "name": "export-gas-library",
+  "version": "1.0.0",
+  "description": "Support tool to export Node.js libraries to GAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/sinsky/export-gas-library.git",
+  "keywords": [],
+  "author": "sinsky <60662802+sinsky@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinsky/export-gas-library/issues"
+  },
+  "homepage": "https://github.com/sinsky/export-gas-library#readme"
+}
