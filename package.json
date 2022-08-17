@@ -1,10 +1,14 @@
 {
-  "name": "export-gas-library",
+  "name": "my-webpack-project",
   "version": "1.0.0",
-  "description": "Support tool to export Node.js libraries to GAS",
+  "description": "My webpack project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=production --node-env=production",
+    "build:dev": "webpack --mode=development",
+    "build:prod": "webpack --mode=production --node-env=production",
+    "watch": "webpack --watch"
   },
   "repository": "git+https://github.com/sinsky/export-gas-library.git",
   "keywords": [],
