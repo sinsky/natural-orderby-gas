@@ -15,8 +15,11 @@
   },
   "homepage": "https://github.com/sinsky/export-gas-library#readme",
   "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
     "@google/clasp": "^2.4.1",
     "@types/google-apps-script": "^1.0.53",
+    "babel-loader": "^8.2.5",
     "prettier": "^2.7.1"
   },
   "dependencies": {}
