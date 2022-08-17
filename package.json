@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/sinsky/export-gas-library/issues"
   },
-  "homepage": "https://github.com/sinsky/export-gas-library#readme"
+  "homepage": "https://github.com/sinsky/export-gas-library#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "@types/google-apps-script": "^1.0.53"
+  },
+  "dependencies": {}
 }
