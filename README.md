@@ -73,9 +73,5 @@ yarn run clasp push
 
 Spread the word about your built scripts!
 
-```shell
-yarn clasp open
-```
-
-1. Click on the gear icon from the sidebar on the left
+1. `.clasp.json` -> scriptId
 2. Script ID will be provided.
